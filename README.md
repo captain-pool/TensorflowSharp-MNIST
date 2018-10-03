@@ -1,9 +1,9 @@
 # First Windows Form Application to Recognize MNIST Handwritten Digits using TensorflowSharp for C#. Using CNN Classifier.
 Usage: (To Retrain model)
- - ```sh
+ -  ```
     cd python/
     python3 graph.py
-   ```
+    ```
  - Freeze Graph for usage:
     ```sh
         freeze_graph --input_graph=tmp/model/tf_graph.pb --input_checkpoint=tmp/model/weights.ckpt --input_binary=True --output_node_names=output --output_graph=output.pb
