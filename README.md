@@ -15,4 +15,7 @@ The Compiled .exe can be found in bin/debug/TF Test.exe
 ### Don't move the compiled binary as it depends on the ouput.pb file fixed for the current folder hierarchy
 Download the mnist handwriting images(28x28) from [Here](https://github.com/myleott/mnist_png/blob/master/mnist_png.tar.gz?raw=true), unzip it, and use it to run the model.
 else feed any 28x28 handwritten image, and it should work.
+
+
+
 ![Screenshot.png](https://github.com/captain-pool/TensorflowSharp-MNIST/raw/master/TF%20Test/Capture.PNG)
