@@ -1,0 +1,7 @@
+.vs/*
+
+packages/*
+
+libtensorflow.dll
+
+TF\ Test/bin
